@@ -1,9 +1,7 @@
 # Around-The-World 🌍  
 
 ## Live Demo  
-
-![Project Screenshot](https://github.com/Ali-Fadel-profile/around-the-world/blob/master/src/img/website.png)  
-
+[![around the world Application Screenshot ](./src/img/website.png)](https://worldlyways.netlify.app/)  
 ---
 
 ## Introduction  
